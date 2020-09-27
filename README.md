@@ -1,4 +1,10 @@
 # indeedScrape
 
-npm i
-npm start
+## Getting started
+
+```sh
+$ npm i
+$ npm start
+```
+
+It's as simple as that!
